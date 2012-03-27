@@ -1,0 +1,14 @@
+
+Mergr sorting of 10000 numbers took 0.000000msec.
+
+Theoretical Time compexity of Merge Sort is n*log(n)=92103.403720
+
+
+Selection Sorting of 10000 numbers took 265.000000msec
+
+Theoretical Time compexity of Selection Sort is n^2=100000000
+
+
+Insertion sorting of 10000 numbers took 328.000000msec.
+
+Theoretical Time compexity of Insertion Sort is n*n,(for worst case)=100000000
